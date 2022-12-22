@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "815656466688",
+    "project_id": "myparfum-ac6ab",
+    "storage_bucket": "myparfum-ac6ab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:815656466688:android:639127474346c0fa3f9be5",
+        "android_client_info": {
+          "package_name": "com.example.helloworld"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "815656466688-epjekl72165hvj9ot08bi382pq0vajmi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzquI-q1-8bTC2laFv2JSIYxDBdeX4DME"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "815656466688-epjekl72165hvj9ot08bi382pq0vajmi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:815656466688:android:5aa27b568015dab23f9be5",
+        "android_client_info": {
+          "package_name": "com.my_parfum.my_parfum"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "815656466688-sg304cslmbpir9nvvtrsa7a6pk5shp5s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.my_parfum.my_parfum",
+            "certificate_hash": "4bb9a43808baabd707a4be96dba1d9deaced7e55"
+          }
+        },
+        {
+          "client_id": "815656466688-epjekl72165hvj9ot08bi382pq0vajmi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzquI-q1-8bTC2laFv2JSIYxDBdeX4DME"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "815656466688-epjekl72165hvj9ot08bi382pq0vajmi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
